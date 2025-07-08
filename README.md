@@ -1,6 +1,6 @@
 <h1 align="center">🎨 PILPaint – Image Colorization & Image Processing using Python</h1>
 <p align="center">
-  <strong>By: Mubasshir Ahmed | FSDS Daily Task</strong><br>
+  <strong>By: Mubasshir Ahmed | FSDS Task</strong><br>
   <em>Powered by:</em> Python 🐍 • Pillow 🖼 • NumPy 🧮 • Matplotlib 📊
 </p>
 
@@ -94,7 +94,7 @@ jupyter notebook notebooks/PILPaint_Image_Colorization.ipynb
 
 **Mubasshir Ahmed**
 🔗 GitHub: [@mubasshirahmed-3712](https://github.com/mubasshirahmed-3712)
-🎓 FSDS Daily Task • Guided by Kodigit
+🎓 FSDS Task • Guided by [Kodigit](https://github.com/Kodigit) 
 
 ---
 
